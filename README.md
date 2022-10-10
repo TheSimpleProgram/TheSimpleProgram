@@ -14,7 +14,7 @@
 
 
 
-
+- 🖋️ Learning, about life.
 - 👨‍💻 All of my projects are available on [My personal website](https://thesimpleprogram.github.io/AdityaAwasthi/).
 - 🔭 You can find the games I made [here](https://adityaawasthi.itch.io/). PS more to come in future.
 - 👀 I’m interested to create new projects especially in Python and HTML.

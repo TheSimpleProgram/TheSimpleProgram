@@ -26,10 +26,10 @@
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="110" height="28">
 </a>
 <a href="https://adityaawasthi.itch.io/">
-<img src="https://media.discordapp.net/attachments/926384508679372820/1029049674688106587/unknown.png" alt="Itch.io" width="110" height="28">
+<img src="https://comicbook.com/wp-content/uploads/sites/4/2025/07/Itchio-Generic.jpg" alt="Itch.io" width="110" height="28">
 </a>
 <a href="https://thesimpleprogram.github.io/AdityaAwasthi/">
-<img src="https://media.discordapp.net/attachments/926384508679372820/1029051629158269088/website_chain_icon_thingy.png" alt="website logo" width="110" height="28">
+<img src="https://miro.medium.com/1*dDNpLKu_oTLzStsDTnkJ-g.png" alt="website logo" width="110" height="28">
 </a>
 <!---
 TheSimpleProgram/TheSimpleProgram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

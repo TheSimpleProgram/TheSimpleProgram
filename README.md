@@ -1,4 +1,4 @@
-![If you're reading this you probably can't see the image.](https://media.discordapp.net/attachments/926384508679372820/1029045478001745930/github_banner_2.0.png?width=1440&height=360)
+![If you're reading this you probably can't see the image.](https://media.discordapp.net/attachments/740803013802983467/1411686011704049754/Aditya_Awasthi_code_and_stuff.png?ex=68b58e8d&is=68b43d0d&hm=61f750a88fe0ee4763f4831ed3b446986b8c2ce7bd06907bf1d5819dd738510f&=&format=webp&quality=lossless&width=1440)
 
 <h1><p align="center">Hi 👋, I’m @TheSimpleProgram AKA Aditya Awasthi</p></h1>
 <h2><p align="center"> Student, Developer from Earth</h2></p>

@@ -29,7 +29,7 @@
 <img src="https://comicbook.com/wp-content/uploads/sites/4/2025/07/Itchio-Generic.jpg" alt="Itch.io" width="110" height="28">
 </a>
 <a href="https://thesimpleprogram.github.io/AdityaAwasthi/">
-<img src="https://miro.medium.com/1*dDNpLKu_oTLzStsDTnkJ-g.png" alt="website logo" width="110" height="28">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHSVQ_I5Xu_kfOp5HfCUUuX2hEIohdkbNIJi41y8KtmWu3BONU8qKHJ0qS4jK71X_4Oc&usqp=CAU" alt="website logo" width="110" height="28">
 </a>
 <!---
 TheSimpleProgram/TheSimpleProgram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

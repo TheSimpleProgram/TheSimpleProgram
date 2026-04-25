@@ -1,4 +1,4 @@
-![If you're reading this you probably can't see the image.](./img_)
+![If you're reading this you probably can't see the image.](./img_.jpg)
 
 <h1><p align="center">Hi 👋, I’m @TheSimpleProgram AKA Aditya Awasthi</p></h1>
 <h2><p align="center"> Student, Developer from Earth</h2></p>
